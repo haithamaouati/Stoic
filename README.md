@@ -55,4 +55,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-Stoic is licensed under [Unlicense license](LICENSE).
+Stoic is licensed under [WTFPL license](LICENSE).
